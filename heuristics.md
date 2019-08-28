@@ -1,8 +1,6 @@
 # In Progress
 
-This is a growing list of accesibility hueristics 
-
-1. 
+This is a growing list of accesibility hueristics  
 
 Content
 Content is the most important part of your site.
