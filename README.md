@@ -1,7 +1,7 @@
 # A11y (accessibility)
 
 
-- [Hueristics (A growing list collated from everywhere)](huersitics.md)
+- [Heuristics (A growing list collated from everywhere)](heursitics.md)
 - Stuff we have learned
 
 
