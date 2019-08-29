@@ -86,17 +86,9 @@ They might be:
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
+        margin: 5px
         }
 </style>
-
-| P | Q | P * Q |
-| - | - | - |
-| T | T | T |
-| T | F | F |
-| F | T | F |
-| F | H | G |
-{: .tablelines}
-
 
 | Level  | Area | Note  | Resources  | Comments |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
