@@ -53,6 +53,7 @@ It is important that your interface and content can be operated, and navigated b
  - Make sure there is a visible focus style for interactive elements that are navigated to via keyboard input.
  - Check to see that keyboard focus order matches the visual layout.
  - Remove invisible focusable elements.
+ 
 ## Images
 Images are a very common part of most websites. There are techniques you can use to help make sure they are enjoyable by all.
 
@@ -61,6 +62,7 @@ Images are a very common part of most websites. There are techniques you can use
  - Make sure that decorative images have empty alt attribute values.
  - Provide a text alternative for complex images such as charts, graphs, and maps.
  - For images containing text, make sure the alt description includes the image's text.
+ 
 ### SVGs
 SVGs are images described using markup.
 
