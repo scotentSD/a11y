@@ -71,7 +71,6 @@ They might be:
 ## A WCAG refernced checklist
 
 
-
 ## Tools
 - [ ] Use these tools to help make your work accessible [More Info](http://accessibility.voxmedia.com/#tools-1)
  - [WCAG 2.0 guidelines to review best practices](http://code.viget.com/interactive-wcag/#responsibility=design&level=aa),
