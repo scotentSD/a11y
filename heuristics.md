@@ -35,6 +35,12 @@ They might be:
 - Situational: Such as someone who is holding a baby and does not have use of that arm for other tasks
 
 
+## A Basic Checklist
+
+## A more in depth checklist
+
+## A WCAG refernced checklist
+
 
 
 | Level  | Area | Note  | Resources  | Comments |
