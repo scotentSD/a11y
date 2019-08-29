@@ -30,9 +30,9 @@ There now follows a series of checlists that dive deeper and deeper into A11Y wi
 
 ## How permanent these disabilities might be
 They might be:
-- Permamnent: Such as someone who has lost an arm
-- Temporary: 	Such as someone who has broken an arm
-- Situational: Such as someone who is holding a baby and does not have use of that arm for other tasks
+- **Permamnent**: Such as someone who has lost an arm
+- **Temporary**: 	Such as someone who has broken an arm
+- **Situational**: Such as someone who is holding a baby and does not have use of that arm for other tasks
 
 
 ## A Basic Checklist
