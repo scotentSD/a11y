@@ -1,12 +1,40 @@
 # In Progress
 
+Heuristics and checklist are really bad for actually developing a culture of excellence. Read this article to get a perspective on this. 
+
+BUT
+
+They can be a good starting point and can keep you sane. Part of teh battle is to make sure you update them as you learn 
+
+Please update me :-)
+
+There now follows a series of checlists that dive deeper and deeper into A11Y with a primary focus on Content developers.
+
+## Main areas of disability 
+
+### Visual
+
+### Speach
+
+### Hearing
+
+### Cognitive
+
+### Motor
+
+
+
+
+
+
 | Level  | Area | Note  | Resources  | Comments |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
-| Level | Area | Note | Resources | 
+
+
 
 
 
@@ -140,8 +168,3 @@ Things to check to best support different device form factors.
  - Remove horizontal scrolling.
  - Button and link icons can be activated with ease.
  - Ensure sufficient space between clickable items in order to provide a scroll area.
- 
- 
- 
- 
- 
