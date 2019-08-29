@@ -1,5 +1,6 @@
 # Stuff we have learned
 
+
 - There is no absolute perfect method for provideing an Accessible service. 
 - It is  constant journey
 - A large part of it is balancing and compromising between mutually exclusive solutions/needs
