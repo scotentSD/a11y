@@ -1,7 +1,7 @@
 # In Progress
 
 
-| Level  | Area  | Note | Resources | 
+| Level | Area | Note | Resources | 
 | --- | --- | --- | --- | --- |
 | A  |  |  |  |  |
 | A  |  |  |  |  |
