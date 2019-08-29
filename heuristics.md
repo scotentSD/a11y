@@ -1,5 +1,4 @@
 # In Progress
-
 Heuristics and checklist are really bad for actually developing a culture of excellence. Read this article to get a perspective on this. 
 
 BUT
