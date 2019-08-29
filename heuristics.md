@@ -13,16 +13,26 @@ There now follows a series of checlists that dive deeper and deeper into A11Y wi
 ## Main areas of disability 
 
 ### Visual
+Blind, Low vision, Colour blind...
 
-### Speach
+### Speach
+Inability or difficulty speaking or being understood
 
-### Hearing
+### Hearing
+Deaf or hard of hearing
 
-### Cognitive
+### Cognitive
+Dyslexia, ADD, Epilepsy, Autistic spectrum disorders...
 
 ### Motor
+Physically disabled people who might find it hard to type or use a mouse.
 
 
+## How permanent these disabilities might be
+They might be:
+- Permamnent: Such as someone who has lost an arm
+- Temporary: 	Such as someone who has broken an arm
+- Situational: Such as someone who is holding a baby and does not have use of that arm for other tasks
 
 
 
