@@ -1,14 +1,24 @@
 # In Progress
 
+
 | Level  | Area  | Note | Links and Resources | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-|   |  |  |  |  |
-|   |  |  |  |  |
-|   |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
+| A  |  |  |  |  |
 
-|   |  |  |  |  |
-
-|   |  |  |  |  |
 
 
 
@@ -133,3 +143,8 @@ Things to check to best support different device form factors.
  Remove horizontal scrolling.
  Button and link icons can be activated with ease.
  Ensure sufficient space between clickable items in order to provide a scroll area.
+ 
+ 
+ 
+ 
+ 
