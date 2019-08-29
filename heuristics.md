@@ -47,7 +47,6 @@ They might be:
 - [ ] Help users understand inputs, and help them avoid and correct mistakes [More Info](http://accessibility.voxmedia.com/#designers-6)
 - [ ] Write good alt text for your images [More Info](http://accessibility.voxmedia.com/#designers-7)
 - [ ] Be as consistent and clear as possible in layout and copy [More Info](http://accessibility.voxmedia.com/#designers-9)
-
 - [ ] Use the correct HTML element for your content [More Info](http://accessibility.voxmedia.com/#engineers-1)
 - [ ] Support keyboard navigation [More Info](http://accessibility.voxmedia.com/#engineers-2)
 - [ ] Understand and use HTML landmarks [More Info](http://accessibility.voxmedia.com/#engineers-3)
@@ -61,7 +60,6 @@ They might be:
 - [ ] Hide decorative elements from screen readers [More Info](http://accessibility.voxmedia.com/#engineers-12)
 - [ ] Create alternate routes for users to access information [More Info](http://accessibility.voxmedia.com/#engineers-13)
 - [ ] Links should be visually identifiable and have clear :focus and :active states [More Info](http://accessibility.voxmedia.com/#engineers-14)
-
 - [ ] Users should be able to navigate through content using their keyboard. [More Info](http://accessibility.voxmedia.com/#qa-2)
 - [ ] Users should be able to navigate content using a screen reader. [More Info](http://accessibility.voxmedia.com/#qa-3)
 - [ ] Decorative images should not be visible to screen readers. [More Info](http://accessibility.voxmedia.com/#qa-6)
