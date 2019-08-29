@@ -1,28 +1,13 @@
 # In Progress
 
-| First Header  | Second Header | Content Cell  | Content Cell  | Content Cell  |
+| Level  | Area | Note  | Resources  | Comments |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
 | Level | Area | Note | Resources | 
-| --- | --- | --- | --- | --- |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
-| A  |  |  |  |  |
+
 
 
 This is a growing list of accesibility hueristics  
