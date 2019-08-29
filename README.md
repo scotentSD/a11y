@@ -2,7 +2,7 @@
 
 
 - [Heuristics (A growing list collated from everywhere)](heuristics.md)
-- Stuff we have learned
+- [Stuff we have learned](learning.md)
 
 
 ## Resources
