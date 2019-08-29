@@ -54,7 +54,7 @@ They might be:
 | T | T | T |
 | T | F | F |
 | F | T | F |
-| F | F | F |
+| F | F | G |
 {: .tablelines}
 
 
