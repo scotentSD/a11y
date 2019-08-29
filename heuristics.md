@@ -42,6 +42,7 @@ They might be:
 ## A WCAG refernced checklist
 
 
+
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
