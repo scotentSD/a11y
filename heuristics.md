@@ -3,7 +3,8 @@ Heuristics and checklist are really bad for actually developing a culture of exc
 
 BUT
 
-They can be a good starting point and can keep you sane. Part of teh battle is to make sure you update them as you learn 
+They can be a good starting point. 
+Part of the battle is to make sure you update them as you learn 
 
 Please update me :-)
 
