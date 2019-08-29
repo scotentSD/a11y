@@ -78,6 +78,12 @@ They might be:
  - [Color Oracle to simulate color blindness](http://colororacle.org/index.html),
  - [Sim Daltonism to simulate color blindness](https://michelf.ca/projects/sim-daltonism/)
 
+## References
+[Justine Pocock's Github List](https://gist.github.com/justinepocock/533e0ae9d366b9629c27789d414156ed) Based on Voxmedia's list
+
+[Voxmedia A11y checklist](http://accessibility.voxmedia.com)
+
+## Test Area
 
 
 
@@ -231,7 +237,3 @@ Things to check to best support different device form factors.
  - Ensure sufficient space between clickable items in order to provide a scroll area.
 
 
-References
-[Justine Pocock's Github List](https://gist.github.com/justinepocock/533e0ae9d366b9629c27789d414156ed) Based on Voxmedia's list
-
-[Voxmedia A11y checklist](http://accessibility.voxmedia.com)
