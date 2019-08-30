@@ -15,8 +15,7 @@ There now follows a series of checlists that dive deeper and deeper into A11Y wi
 
 **Visual:** Blind, Low vision, Colour blind...
 
-### Speach
-- Inability or difficulty speaking or being understood
+**Speach:** Inability or difficulty speaking or being understood
 
 ### Hearing
 - Deaf or hard of hearing
