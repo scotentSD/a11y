@@ -33,18 +33,22 @@ They might be:
 - [ ] Don't indicate important information using color alone [More Info](http://accessibility.voxmedia.com/#designers-2)
 - [ ] Pair values of colors together (not only hues) to increase contrast [More Info](http://accessibility.voxmedia.com/#designers-3)
 
+
 - [ ] Design focus states to help users navigate and understand where they are [More Info](http://accessibility.voxmedia.com/#designers-5)
 - [ ] Help users understand inputs, and help them avoid and correct mistakes [More Info](http://accessibility.voxmedia.com/#designers-6)
 
+
 - [ ] Be as consistent and clear as possible in layout and copy [More Info](http://accessibility.voxmedia.com/#designers-9)
 - [ ] Use the correct HTML element for your content [More Info](http://accessibility.voxmedia.com/#engineers-1)
+
 
 - [ ] Understand and use HTML landmarks [More Info](http://accessibility.voxmedia.com/#engineers-3)
 - [ ] Write good alt text for your images [More Info](http://accessibility.voxmedia.com/#engineers-4)
 - [ ] Help users understand inputs, and help them avoid and correct mistakes [More Info](http://accessibility.voxmedia.com/#engineers-6)
 - [ ] Use ARIA attributes when applicable [More Info](http://accessibility.voxmedia.com/#engineers-7)
 
-- [ ] Make links descriptive [More Info](http://accessibility.voxmedia.com/#engineers-9)
+
+
 
 - [ ] Write good alt text for your images [More Info](http://accessibility.voxmedia.com/#designers-7)
 - [ ] Avoid images and iconography in pseudo-elements [More Info](http://accessibility.voxmedia.com/#engineers-10)
@@ -52,6 +56,7 @@ They might be:
 - [ ] Hide decorative elements from screen readers [More Info](http://accessibility.voxmedia.com/#engineers-12)
 - [ ] Decorative images should not be visible to screen readers. [More Info](http://accessibility.voxmedia.com/#qa-6)
 
+- [ ] Make links descriptive [More Info](http://accessibility.voxmedia.com/#engineers-9)
 - [ ] Support keyboard navigation [More Info](http://accessibility.voxmedia.com/#engineers-2)
 - [ ] Give users a way to skip top level navigation to access main content [More Info](http://accessibility.voxmedia.com/#engineers-8)
 - [ ] Create alternate routes for users to access information [More Info](http://accessibility.voxmedia.com/#engineers-13)
