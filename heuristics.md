@@ -1,5 +1,5 @@
 # Huesristics / Checklists
-Heuristics and checklist are really bad for actually developing a culture of excellence. Read this article to get a perspective on this: [Accessibility Checcklists: Just say no](https://medium.com/@sheribyrnehaber/accessibility-checklists-just-say-no-c9a68c8f2c90)
+> Heuristics and checklist are really bad for actually developing a culture of excellence. Read this article to get a perspective on this: [Accessibility Checcklists: Just say no](https://medium.com/@sheribyrnehaber/accessibility-checklists-just-say-no-c9a68c8f2c90)
 
 BUT
 
@@ -235,5 +235,3 @@ Things to check to best support different device form factors.
  - Remove horizontal scrolling.
  - Button and link icons can be activated with ease.
  - Ensure sufficient space between clickable items in order to provide a scroll area.
-
-
