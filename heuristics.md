@@ -29,11 +29,8 @@ They might be:
 
 ## A Basic Checklist
 
-
-
-## A more in depth checklist
-- [ ] Make sure there is enough contrast between text and its background color [More Info](http://accessibility.voxmedia.com/#designers-1)
-- [ ] Don't indicate important information using color alone [More Info](http://accessibility.voxmedia.com/#designers-2)
+[ ] Make sure there is enough contrast between text and its background color [More Info](http://accessibility.voxmedia.com/#designers-1)
+[ ] Don't indicate important information using color alone [More Info](http://accessibility.voxmedia.com/#designers-2)
 - [ ] Pair values of colors together (not only hues) to increase contrast [More Info](http://accessibility.voxmedia.com/#designers-3)
 - [ ] Design focus states to help users navigate and understand where they are [More Info](http://accessibility.voxmedia.com/#designers-5)
 - [ ] Help users understand inputs, and help them avoid and correct mistakes [More Info](http://accessibility.voxmedia.com/#designers-6)
