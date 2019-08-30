@@ -13,8 +13,7 @@ There now follows a series of checlists that dive deeper and deeper into A11Y wi
 
 ## Main areas of disability 
 
-### Visual
-- Blind, Low vision, Colour blind...
+**Visual:** Blind, Low vision, Colour blind...
 
 ### Speach
 - Inability or difficulty speaking or being understood
