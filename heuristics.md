@@ -17,11 +17,11 @@ There now follows a series of checlists that dive deeper and deeper into A11Y wi
 
 **Speach:** Inability or difficulty speaking or being understood
 
-** Hearing:** Deaf or hard of hearing
+**Hearing:** Deaf or hard of hearing
 
-** Cognitive:**  Dyslexia, ADD, Epilepsy, Autistic spectrum disorders...
+**Cognitive:**  Dyslexia, ADD, Epilepsy, Autistic spectrum disorders...
 
-** Motor:** Physically disabled people who might find it hard to type or use a mouse.
+**Motor:** Physically disabled people who might find it hard to type or use a mouse.
 
 
 ## How permanent these disabilities might be
