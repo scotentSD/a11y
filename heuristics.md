@@ -1,5 +1,5 @@
-# Huesristics / Checklists
-> Heuristics and checklist are really bad for actually developing a culture of excellence. Read this article to get a perspective on this: [Accessibility Checcklists: Just say no](https://medium.com/@sheribyrnehaber/accessibility-checklists-just-say-no-c9a68c8f2c90)
+# Huesristics / Checklists 
+'''Heuristics and checklist are really bad for actually developing a culture of excellence. Read this article to get a perspective on this: [Accessibility Checcklists: Just say no](https://medium.com/@sheribyrnehaber/accessibility-checklists-just-say-no-c9a68c8f2c90)
 
 BUT
 
@@ -7,6 +7,7 @@ They can be a good starting point.
 Part of the battle is to make sure you update them as you learn 
 
 Please update me :-)
+'''
 
 There now follows a series of checlists that dive deeper and deeper into A11Y with a primary focus on Content developers.
 
