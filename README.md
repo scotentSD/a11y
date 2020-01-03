@@ -19,6 +19,18 @@
 
 [![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gendr & sexuality](/images/designing-for-diversity-thumbnail.jpg)](/images/designing-for-diversity.jpeg) [![Diagram for usability: sensory (sight, hearing, touch, smell, taste), cognitive (memory, problem solving, communication, recognition, attention), physical (reach, dexterity, flexibility, strengh, mobility)](/images/Usability-wheel-thumbnail.png)](/images/Usability-wheel.png)
 
+## Videos of people with disabilities using tech
+- [Axess Lab - Videos of people with disabilities using tech](https://axesslab.com/tech-youtubers/)
+- [Screen reader demo](https://youtu.be/dEbl5jvLKGQ)
+- [How Blind People Use YouTube & Twitter on the iPhone](https://youtu.be/c0nvdiRdehw)
 
+
+<p>Using Voice over on an iPhone (video)<br>
+  <video width="560" height="315" controls=""><source src="assets/images/voiceover-on-iphone.mp4" type="video/mp4"></video>
+</p>
+<p>Using Braille input (video)<br>
+ <video width="560" height="315" controls=""><source src="assets/images/BrailleInput.mp4" type="video/mp4"></video>
+</p>
+<br>
 <div>Last updated: {{site.time | date_to_string}}</div>
 
