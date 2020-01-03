@@ -76,7 +76,7 @@ Use these tools to help make your work accessible [More Info](http://accessibili
 
  - [WCAG 2.0 guidelines](http://code.viget.com/interactive-wcag/#responsibility=design&level=aa)  to review best practices
  - [WAVE (Web Accessibility Evaluation Tool)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en-US) Chrome Extension to check accessibility across your products
- - [GOVUK colour contrast tool(https://contrast-checker.glitch.me/)
+ - [GOVUK colour contrast tool](https://contrast-checker.glitch.me/)
  - [Color Contrast Analyzer App](https://www.paciellogroup.com/resources/contrastanalyser/)  to analyze colour contrast
  - [Color Safe](http://colorsafe.co/)  to make accessible color palettes
  - [Color Oracle](http://colororacle.org/index.html) to simulate color blindness
