@@ -1,4 +1,4 @@
-> # Huesristics / Checklists 
+# Heusristics / Checklists 
 Heuristics and checklist are really bad for actually developing a culture of excellence. Read this article to get a perspective on this: [Accessibility Checcklists: Just say no](https://medium.com/@sheribyrnehaber/accessibility-checklists-just-say-no-c9a68c8f2c90)
 
 **BUT**
@@ -67,46 +67,27 @@ They might be:
 
 
 
-## A WCAG refernced checklist
+## A WCAG referenced checklist
 
 
 ## Tools
-- [ ] Use these tools to help make your work accessible [More Info](http://accessibility.voxmedia.com/#tools-1)
- - [WCAG 2.0 guidelines to review best practices](http://code.viget.com/interactive-wcag/#responsibility=design&level=aa),
- - [WAVE (Web Accessibility Evaluation Tool) Chrome Extension to check accessibility across your products](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en-US),
- - [Color Contrast Analyzer App to analyze color contrast](https://www.paciellogroup.com/resources/contrastanalyser/),
- - [Color Safe to make accessible color palettes](http://colorsafe.co/),
- - [Color Oracle to simulate color blindness](http://colororacle.org/index.html),
- - [Sim Daltonism to simulate color blindness](https://michelf.ca/projects/sim-daltonism/)
+
+Use these tools to help make your work accessible [More Info](http://accessibility.voxmedia.com/#tools-1)
+
+ - [WCAG 2.0 guidelines](http://code.viget.com/interactive-wcag/#responsibility=design&level=aa)  to review best practices
+ - [WAVE (Web Accessibility Evaluation Tool)](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en-US) Chrome Extension to check accessibility across your products
+ - [GOVUK colour contrast tool(https://contrast-checker.glitch.me/)
+ - [Color Contrast Analyzer App](https://www.paciellogroup.com/resources/contrastanalyser/)  to analyze colour contrast
+ - [Color Safe](http://colorsafe.co/)  to make accessible color palettes
+ - [Color Oracle](http://colororacle.org/index.html) to simulate color blindness
+ - [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/)  to simulate color blindness
+ - [The Paciello group - Accessibility testing tools](https://developer.paciellogroup.com/blog/2019/02/accessibility-testing-tools-we-use/) – Updated May 2019
 
 ## References
 [Justine Pocock's Github List](https://gist.github.com/justinepocock/533e0ae9d366b9629c27789d414156ed) Based on Voxmedia's list
 
 [Voxmedia A11y checklist](http://accessibility.voxmedia.com)
 
-## Test Area
-
-
-
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        margin: 5px
-        }
-</style>
-
-| Level  | Area | Note  | Resources  | Comments |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-{: .tablelines}
-
-
-
-
-
-
-This is a growing list of accesibility hueristics  
 
 ## Content
 Content is the most important part of your site.
@@ -236,3 +217,6 @@ Things to check to best support different device form factors.
  - Remove horizontal scrolling.
  - Button and link icons can be activated with ease.
  - Ensure sufficient space between clickable items in order to provide a scroll area.
+ 
+<br>
+<div>Last updated: {{site.time | date_to_string}}</div>
