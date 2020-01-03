@@ -24,13 +24,6 @@
 - [Screen reader demo](https://youtu.be/dEbl5jvLKGQ)
 - [How Blind People Use YouTube & Twitter on the iPhone](https://youtu.be/c0nvdiRdehw)
 
-
-<p>Using Voice over on an iPhone (video)<br>
-  <video width="560" height="315" controls=""><source src="https://github.com/scotentSD/a11y/images/voiceover-on-iphone.mp4" type="video/mp4"></video>
-</p>
-<p>Using Braille input (video)<br>
- <video width="560" height="315" controls=""><source src="https://github.com/scotentSD/a11y/images/BrailleInput.mp4" type="video/mp4"></video>
-</p>
 <br>
 <div>Last updated: {{site.time | date_to_string}}</div>
 
