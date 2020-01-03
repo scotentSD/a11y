@@ -13,7 +13,8 @@
  - [Google devs](https://developers.google.com/web/fundamentals/accessibility/)
  - [Assisted Digital (GOVUK)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/assisted-digital-support-introduction#users-who-need-assisted-digital-support)
  - [Inclusive Design principles](https://inclusivedesignprinciples.org/) by Heydon Pickering, Léonie Watson, Henny Swan, Ian Pouncey
- - [Essential digital skills framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) - Digital skills adults need to safely benefit from, participate in and contribute to the digital world.
+ - [Essential digital skills framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) - Digital skills adults need to safely benefit from, participate in and contribute to the digital world
+ - [Accessiblity Scotland](https://accessibility.scot/)
 
 
 [![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gender & sexuality](/images/designing-for-diversity-thumbnail.jpg)](/images/designing-for-diversity.jpeg) [![Diagram for usability: sensory (sight, hearing, touch, smell, taste), cognitive (memory, problem solving, communication, recognition, attention), physical (reach, dexterity, flexibility, strengh, mobility)](/images/Usability-wheel-thumbnail.png)](/images/Usability-wheel.png)
