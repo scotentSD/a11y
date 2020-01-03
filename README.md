@@ -27,7 +27,7 @@
 ## Examples of good practices
 - About access information to a venue [Global Diversity CFP day events](https://www.globaldiversitycfpday.com/), see a [screenshot](/images/acces-info-good-practices.png)
  - [W3C - How to make your presentations accessible](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
- - [Accessible Co-design by Olivia Labattaglia](/images/OliviaLabattaglia-a11y-codesign.pdf) (PDF)
+ - [Accessible Co-design by Olivia Labattaglia](/files/OliviaLabattaglia-a11y-codesign.pdf) (PDF)
 <br>
 <div>Last updated: {{site.time | date_to_string}}</div>
 
