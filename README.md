@@ -26,10 +26,10 @@
 
 
 <p>Using Voice over on an iPhone (video)<br>
-  <video width="560" height="315" controls=""><source src="assets/images/voiceover-on-iphone.mp4" type="video/mp4"></video>
+  <video width="560" height="315" controls=""><source src="/images/voiceover-on-iphone.mp4" type="video/mp4"></video>
 </p>
 <p>Using Braille input (video)<br>
- <video width="560" height="315" controls=""><source src="assets/images/BrailleInput.mp4" type="video/mp4"></video>
+ <video width="560" height="315" controls=""><source src="/images/BrailleInput.mp4" type="video/mp4"></video>
 </p>
 <br>
 <div>Last updated: {{site.time | date_to_string}}</div>
