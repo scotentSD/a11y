@@ -1,4 +1,4 @@
-# A11y (accessibility)
+# A11Y (accessibility)
 
 
 - [Heuristics (A growing list collated from everywhere)](heuristics.md)
@@ -7,8 +7,18 @@
 
 ## Resources
  - [The A11Y project](https://a11yproject.com)
- - Norman Neilson
- - UIE
- - GDS
+ - [GOVUK Resources](https://github.com/alphagov/accessibility-community-notes-and-discussion/wiki/resources)
+ - [mygov.scot Accessiblity] (https://resources.mygov.scot/design-standards/accessibility/)
+ - [Accessibility reviews](https://a11y.reviews/), a community-driven resource to both find and share information on the accessibility of tools, services, platforms
+ - [W3C - How to make your presentations accessible](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
+ - [Google devs](https://developers.google.com/web/fundamentals/accessibility/)
+ - [Assisted Digital (GOVUK)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/assisted-digital-support-introduction#users-who-need-assisted-digital-support)
+ - [Inclusive Design principles] (https://inclusivedesignprinciples.org/) by Heydon Pickering, Léonie Watson, Henny Swan, Ian Pouncey
+ - [Essential digital skills framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) - Digital skills adults need to safely benefit from, participate in and contribute to the digital world.
 
+
+[![Diagram for Designing for diversity: size & shape, age, diets, culture and customs, language & communication abilities, education & training, income & social class, ethnicity, gendr & sexuality](/images/designing-for-diversity-thumbnail.jpg)](/images/designing-for-diversity.jpeg) [![Diagram for usability: sensory (sight, hearing, touch, smell, taste), cognitive (memory, problem solving, communication, recognition, attention), physical (reach, dexterity, flexibility, strengh, mobility)](/images/Usability-wheel-thumbnail.png)](/images/Usability-wheel.png)
+
+
+<div>Last updated: {{site.time | date_to_string}}</div>
 
