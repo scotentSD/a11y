@@ -1,19 +1,19 @@
 # A11Y (accessibility)
 
 
-- [Heuristics (A growing list collated from everywhere)](heuristics.md)
+- [Heuristics](heuristics.md) (A growing list collated from everywhere)
 - [Stuff we have learned](learning.md)
 
 
 ## Resources
  - [The A11Y project](https://a11yproject.com)
  - [GOVUK Resources](https://github.com/alphagov/accessibility-community-notes-and-discussion/wiki/resources)
- - [mygov.scot Accessiblity] (https://resources.mygov.scot/design-standards/accessibility/)
+ - [mygov.scot Accessiblity](https://resources.mygov.scot/design-standards/accessibility/)
  - [Accessibility reviews](https://a11y.reviews/), a community-driven resource to both find and share information on the accessibility of tools, services, platforms
  - [W3C - How to make your presentations accessible](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
  - [Google devs](https://developers.google.com/web/fundamentals/accessibility/)
  - [Assisted Digital (GOVUK)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/assisted-digital-support-introduction#users-who-need-assisted-digital-support)
- - [Inclusive Design principles] (https://inclusivedesignprinciples.org/) by Heydon Pickering, Léonie Watson, Henny Swan, Ian Pouncey
+ - [Inclusive Design principles](https://inclusivedesignprinciples.org/) by Heydon Pickering, Léonie Watson, Henny Swan, Ian Pouncey
  - [Essential digital skills framework](https://www.gov.uk/government/publications/essential-digital-skills-framework) - Digital skills adults need to safely benefit from, participate in and contribute to the digital world.
 
 
