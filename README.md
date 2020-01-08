@@ -1,4 +1,4 @@
-# A11Y (accessibility)
+# A11Y
 
 
 - [Heuristics](heuristics.md) (A growing list collated from everywhere)
